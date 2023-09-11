@@ -1,0 +1,9 @@
+[submodule "Digital-Document-Archiving-System-Web"]
+	path = Digital-Document-Archiving-System-Web
+	url = https://github.com/fxkfjla/Digital-Document-Archiving-System-Web
+[submodule "Digital-Document-Archiving-System-Server"]
+	path = Digital-Document-Archiving-System-Server
+	url = https://github.com/fxkfjla/Digital-Document-Archiving-System-Server
+[submodule "Digital-Document-Archiving-System-Android"]
+	path = Digital-Document-Archiving-System-Android
+	url = https://github.com/fxkfjla/Digital-Document-Archiving-System-Android
